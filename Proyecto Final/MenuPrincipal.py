@@ -10,7 +10,7 @@ from medico import Medico
 from medico_dao import MedicoDao
 from anamnesis import Anamnesis
 from datetime import datetime
-from diagnsotico_dao import DiagnosticoDao
+from diagnostico_dao import DiagnosticoDao
 from medicamento_dao import MedicamentoDao
 from medicamento import Medicamento
 from especialidad_dao import EspecialidadDao
